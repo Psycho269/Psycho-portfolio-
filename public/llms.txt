@@ -1,0 +1,47 @@
+# PSYCHO2.9 (Neeraj Tiwari)
+
+> Cinematic portfolio of Neeraj Tiwari, aka PSYCHO2.9: video editor, Telegram bot builder, ethical hacker and web designer. High-retention edits, resilient bot systems and secure code.
+
+## Pages
+- [Home](https://your-domain.com/): single-page portfolio (skills, timeline, selected works, about, contact)
+
+## What I do
+- Video editing: high-retention cinematic edits, motion graphics, colour grading
+- Telegram bots: async Python bots, moderation, automation
+- Ethical hacking: Linux, security audits, hardened setups
+- Web design: responsive, accessible, light/dark interfaces
+
+## Tools
+- Adobe After Effects: Motion Graphics & VFX
+- Premiere Pro: Long-form Video Editing
+- Photoshop: Visual Design & Retouching
+- CapCut: Short-form Retention Edits
+- Figma: UI / UX Design
+- HTML5: Web Structure
+- Spline: 3D & Interactive Design
+- Claude: Vibe Coding
+- ChatGPT: Automation & Prototyping
+- Python: Telegram Bots & Automation
+- JavaScript: Interactive Web Development
+- Kali Linux: Ethical Hacking
+- CSS3: Styling & Responsive Layout
+
+## Selected works
+- Timeless (Video Editing, 2025): High-pacing narrative cut featuring custom motion curves, dynamic speed ramps, and analog color grading in Adobe After Effects and CapCut.
+- Game Engine Interface (Web Design, 2025): Dark-mode interactive interface engineered for ultra-responsive game controls, zero layout shift, and intuitive HUD layout.
+- System Builder Platform (Ethical Hacking, 2024): Full-stack platform built with Linux server infrastructure, rate limiting, secure proxy routing, and automated penetration testing validations.
+- Driven Motion Cut (Video Editing, 2024): High-energy short-form video edit synchronized to audio transients with custom typography animation and seamless match-cuts.
+- Ideas Automation Bot (Telegram Bots, 2024): Telegram bot automating asynchronous content distribution, inline keyboard menus, custom state machines, and webhook dispatching in Python.
+- Sound Synced Sequence (Video Editing, 2024): Audio-first cinematic showreel edit matching dynamic motion transitions to complex multi-track sound effects and sub-bass drops.
+- Culinary Brand Film (Video Editing, 2023): Commercial promo film featuring macro food cinematography, warm contrast grading, stabilized tracking, and crisp sound foley.
+- Travel Documentary (Video Editing, 2023): Atmospheric travel montage edited with fluid whip-pans, ambient soundscape design, and cinematic aspect ratio framing.
+- Space & Cyberpunk Concept (Web Design, 2023): Dark atmospheric web showcase pairing futuristic typographic layouts with subtle CSS glow and tactile film grain.
+- Play Interactive Canvas (Web Design, 2023): Experimental web interaction sandbox testing fluid mouse physics, canvas particle rendering, and accessible controls.
+- Cleaner Utility Bot (Telegram Bots, 2022): High-throughput group moderation and cleanup Telegram bot featuring anti-spam regex filters, admin access control, and auto-delete timers.
+- Security Steps Audit Tool (Ethical Hacking, 2022): Scripting toolkit automating network endpoint discovery, port scanning verification, and checklist report generation for web application assessments.
+
+## Contact
+- Telegram: https://t.me/Psycho269
+- Telegram channel: https://t.me/+-rvtCfWFqn8yZGI1
+- YouTube: https://www.youtube.com/@psycho2.9
+- Email: neerajt0269@gmail.com
