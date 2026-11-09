@@ -3,7 +3,7 @@
 > Cinematic portfolio of Neeraj Tiwari, aka PSYCHO2.9: video editor, Telegram bot builder, ethical hacker and web designer. High-retention edits, resilient bot systems and secure code.
 
 ## Pages
-- [Home](https://your-domain.com/): single-page portfolio (skills, timeline, selected works, about, contact)
+- [Home](https://psycho.devs.surf/): single-page portfolio (skills, timeline, selected works, about, contact)
 
 ## What I do
 - Video editing: high-retention cinematic edits, motion graphics, colour grading
